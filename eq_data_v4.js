@@ -346,7 +346,7 @@ const ITEMS = [
 // Порог «яркого полюса»: |среднее по шкале| ≥ TRIGGER → уточняющий вопрос
 const TRIGGER = 2.0;
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwaLHKftwAXOEPOMCqSSejUIuNEuACOqXJEbRe0wyhDUAGsA4PUkfR5mEsbxulEl0ZA4w/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyu-UnSMqg9R1PZTQeRY5tjsxZL0rJQHHKf4fv6zl-oRcmVVQbz4ajZc-Iu5w7DM4MdHQ/exec";
 
 // Интерпретации зон появятся отдельным этапом (по контурам, на согласовании).
 // Структура: INTERPRETATIONS[scaleId] = { about, zones: [5 × {label, body}] }
